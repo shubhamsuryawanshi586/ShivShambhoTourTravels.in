@@ -1,0 +1,111 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;  /* Change to 'Pacifico' or 'Great Vibes' for different styles */
+    font-size: 1.9rem;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #fcfbfa !important; /* Stylish golden color */
+}
+
+.navbar-brand1 {
+    font-family: 'Lobster', cursive;  /* Change to 'Pacifico' or 'Great Vibes' for different styles */
+    font-size: 1.9rem;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #080808 !important; /* Stylish golden color */
+}
+
+
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px; /* Adjust as needed */
+    padding-right:20px;
+}
+
+.logo {
+    width: 60px; 
+    height: 60px;
+    border-radius: 10%;
+    object-fit: cover;
+    border: 3px solid white;
+    max-width: 100%;
+}
+
+.logo1 {
+    width: 60px; 
+    height: 60px;
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.hero h3, p {
+    font-size: 1rem;
+    font-weight: bold;
+    color:black;
+    margin-top: 250px;
+}
+
+.banner
+{
+	width:100%;
+	height: 650px;
+    /* margin-top: 70px; */
+}
+
+.banner img
+{
+	width:100%;
+	height:100%;
+    object-fit: cover;
+}
+
+.text-bg-color
+{
+	background-color: red;
+}
+
+
+
+.card img {
+    min-height: 200px;
+    object-fit: cover;
+}
+
+i
+{
+    font-size: 1.3em;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+#whatapp-color
+{
+    color: forestgreen;
+}
+
+#insta-color
+{
+    color: rgb(159, 21, 198);
+}
+
+#facebook-color
+{
+    color: royalblue;
+}
+
+#email-color
+{
+    /* color: rgba(255, 0, 0, 0.5); */
+    color: rgb(255, 100, 100);
+}
+
+footer {
+    margin-top: 20px;
+}
+
